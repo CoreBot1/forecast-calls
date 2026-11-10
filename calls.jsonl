@@ -677,3 +677,5 @@
 {"date_lodged":"2026-11-10","forecaster":"claude-view","nct":null,"ticker":"VRTX","direction":"success","probability":0.54,"resolution_window":["2026-11-10","2026-12-10"]}
 {"date_lodged":"2026-11-10","forecaster":"house_prior","nct":null,"ticker":"TARS","direction":"fail","probability":0.341,"resolution_window":["2026-11-10","2026-12-10"]}
 {"date_lodged":"2026-11-10","forecaster":"claude-view","nct":null,"ticker":"TARS","direction":"success","probability":0.56,"resolution_window":["2026-11-10","2026-12-10"]}
+{"date_lodged":"2026-11-10","forecaster":"house_prior","nct":"NCT04634877","ticker":"MRK","direction":"success","probability":0.717,"resolution_window":["2026-11-17","2027-02-17"]}
+{"date_lodged":"2026-11-10","forecaster":"house_prior","nct":"NCT05609968","ticker":"MRK","direction":"success","probability":0.717,"resolution_window":["2026-12-31","2027-04-02"]}
