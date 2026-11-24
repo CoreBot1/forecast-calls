@@ -1337,3 +1337,10 @@
 {"date_lodged":"2026-11-24","forecaster":"claude-view","nct":null,"ticker":"VIR","direction":"success","probability":0.5,"resolution_window":["2026-11-24","2026-12-24"]}
 {"date_lodged":"2026-11-24","forecaster":"house_prior","nct":null,"ticker":"JNJ","direction":"fail","probability":0.333,"resolution_window":["2026-11-24","2026-12-24"]}
 {"date_lodged":"2026-11-24","forecaster":"claude-view","nct":null,"ticker":"JNJ","direction":"success","probability":0.54,"resolution_window":["2026-11-24","2026-12-24"]}
+{"date_lodged":"2026-11-24","forecaster":"house_prior","nct":"NCT05667142","ticker":"XENE","direction":"success","probability":0.538,"resolution_window":["2027-03-15","2027-06-15"]}
+{"date_lodged":"2026-11-24","forecaster":"house-v2","nct":"NCT05667142","ticker":"XENE","direction":"success","probability":0.595,"resolution_window":["2027-03-15","2027-06-15"]}
+{"date_lodged":"2026-11-24","forecaster":"house_prior","nct":"NCT07798648","ticker":"BNTX","direction":"success","probability":0.672,"resolution_window":["2027-04-12","2027-07-13"]}
+{"date_lodged":"2026-11-24","forecaster":"house-v2","nct":"NCT07798648","ticker":"BNTX","direction":"fail","probability":0.341,"resolution_window":["2027-04-12","2027-07-13"]}
+{"date_lodged":"2026-11-24","forecaster":"house_prior","nct":null,"ticker":"CRSP","direction":"success","probability":0.645,"resolution_window":["2027-11-14","2028-02-14"]}
+{"date_lodged":"2026-11-24","forecaster":"house_prior","nct":"NCT06689085","ticker":"HALO","direction":"success","probability":0.621,"resolution_window":["2027-11-18","2028-02-18"]}
+{"date_lodged":"2026-11-24","forecaster":"house-v2","nct":"NCT06689085","ticker":"HALO","direction":"success","probability":0.532,"resolution_window":["2027-11-18","2028-02-18"]}
